@@ -1,0 +1,10 @@
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\bin\Debug\GPUTrn.exe.config
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\bin\Debug\GPUTrn.exe
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\bin\Debug\GPUTrn.pdb
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\obj\Debug\GPUTrn.csprojAssemblyReference.cache
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\obj\Debug\GPUTrn.Form1.resources
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\obj\Debug\GPUTrn.Properties.Resources.resources
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\obj\Debug\GPUTrn.csproj.GenerateResource.cache
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\obj\Debug\GPUTrn.csproj.CoreCompileInputs.cache
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\obj\Debug\GPUTrn.exe
+C:\Users\5pla7\source\repos\GPUTrn\GPUTrn\obj\Debug\GPUTrn.pdb
